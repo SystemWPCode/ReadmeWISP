@@ -1,9 +1,9 @@
-## 🎉 ¡Bienvenido a **CONECTATE-YA WISP SOFTWARE 1.5**! 🚀
+## 🎉 ¡Bienvenido a **NUBEWISP SOFTWARE 1.5**! 🚀
 
-¡Gracias por confiar en **CONECTATE-YA WISP SOFTWARE**!  
+¡Gracias por confiar en **NUBEWISP SOFTWARE**!  
 Estás utilizando la **versión 1.5** de nuestra plataforma. 🎯
 
-Con **CONECTATE-YA WISP SOFTWARE** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
+Con **NUBEWISP SOFTWARE** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
 Todo lo que necesitas para empezar, en un solo lugar. 🔥
 
 ---
@@ -75,16 +75,16 @@ Tu sistema necesita ejecutar ciertas tareas automáticas para mantener la operac
 ## 🧑‍💻 CRÉDITOS Y DERECHOS DE AUTOR
 
 - 👨‍💻 **Proyecto:** Sistema de administración de clientes WISP e ISP  
-- 🛠️ **Desarrollador:** Walter Rengifo  
-- 🌐 **Web:** [https://wisppro.net](https://wisppro.net)  
+- 🛠️ **Desarrollador:** - 
+- 🌐 **Web:** https://grupoperezs.com/nubewisp/ 
 - 🔢 **Versión actual:** 1.5.0
 
 ---
 
 ## 📞 CONTACTOS DE ATENCIÓN
 
-- 📱 **WhatsApp:** +51 999 220 735  
-- ✉️ **Correo:** walterrengifo08@gmail.com  
+- 📱 **WhatsApp:** +51 927407873  
+- ✉️ **Correo:** grupoperezsac23@gmail.com  
 
 **¡Ventas, soporte o mejoras!**
 
